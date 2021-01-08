@@ -1,0 +1,6 @@
+.DS_Store
+/node_modules
+
+# No lock files
+/package-lock.json
+/yarn.lock

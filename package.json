@@ -1,0 +1,15 @@
+{
+  "name": "npm-root-dep",
+  "version": "1.0.0",
+  "description": "Allows you to find the root dependency of a nested dependency.",
+  "main": "./lib/findDepRoot.js",
+  "bin": {
+    "rootdep": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan Theriault",
+  "license": "MIT",
+  "preferGlobal": true
+}
