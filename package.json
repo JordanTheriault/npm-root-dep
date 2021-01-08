@@ -1,6 +1,6 @@
 {
   "name": "npm-root-dep",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Allows you to find the root dependency of a nested dependency.",
   "main": "./lib/findDepRoot.js",
   "bin": {

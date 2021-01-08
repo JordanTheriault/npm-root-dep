@@ -13,8 +13,8 @@ npm i -g npm-root-dep
 ### Usage
 
 Navigate to your project root: `cd my-project`
-Search for one or more dependencies: `npm-root-dep dependency1 dependency2`
-ex. `npm-root-dep object-assign`
+Search for one or more dependencies: `rootdep dependency1 dependency2`
+ex. `rootdep object-assign`
 
 ## Help
 
